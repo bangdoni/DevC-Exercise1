@@ -1,0 +1,20 @@
+body{
+    color: #000;
+}
+.card{
+    margin-top: 20px;
+    background: #52b5ba
+}
+
+.card img{
+    margin-top: 15px;
+}
+
+#footer{
+    color: #fff;
+    margin-top: 50px;
+    padding: 10px;
+    background:red;
+    position: relative;
+    
+}
